@@ -1,0 +1,1 @@
+export const backend_url = "https://ill-jade-scorpion-kit.cyclic.app/";
